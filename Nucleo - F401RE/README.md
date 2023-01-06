@@ -13,3 +13,8 @@ Nucleo - F401RE &nbsp; | &nbsp; [Altium](/Altium/README.md) &nbsp; | &nbsp; [CNC
 ![распиновка Niucleo - F401RE](/Nucleo%20-%20F401RE/images/Nucleo-F401RE.png)
 ### Рисунок 1. Распиновка платы Nucleo - F401RE.
 
+## Верхний слой платы Nucleo - F401RE
+
+![top layout Niucleo - F401RE](/Nucleo%20-%20F401RE/images/Top-layout.png)
+### Рисунок 2. Верхний слой платы Nucleo - F401RE.
+
