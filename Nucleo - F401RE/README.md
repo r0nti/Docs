@@ -13,6 +13,12 @@ Nucleo - F401RE &nbsp; | &nbsp; [Altium](/Altium/README.md) &nbsp; | &nbsp; [CNC
 ![распиновка Niucleo - F401RE](/Nucleo%20-%20F401RE/images/Nucleo-F401RE.png)
 ### Рисунок 1. Распиновка платы Nucleo - F401RE.
 
+На отладочной плате исспользуется микроконтроллер STM32F411RE в корпусе LQFP64. 
+
+- Даташит можно скачать по ссылке [STM32F411RE](https://disk.yandex.ru/i/nRayTwOI-_lAYg).
+- 3D модель микроконтроллера можно скачать по ссылке [STM32F411RE](https://disk.yandex.ru/d/NHtREuH60U-T5g)
+- 3D модель отладочной платы можно скачать по ссылке [NUCLEO-F401RE](https://disk.yandex.ru/d/kKMflmHcke6UPQ)
+
 ## Верхний слой платы Nucleo - F401RE
 
 ![top layout Niucleo - F401RE](/Nucleo%20-%20F401RE/images/Top-layout.png)
